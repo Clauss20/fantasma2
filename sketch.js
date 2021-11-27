@@ -33,7 +33,7 @@ function setup(){
 }
 
 function draw(){
-    background('black');
+    background('purple');
     if(gameState==="PLAY"){
 
     if(tower.y>300){
